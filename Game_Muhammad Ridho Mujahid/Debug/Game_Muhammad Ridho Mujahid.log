@@ -1,0 +1,4 @@
+﻿  Game.cpp
+D:\Strukdat Pak Akok\Final Project Game\Game_Muhammad Ridho Mujahid\Game_Muhammad Ridho Mujahid\Game.cpp(278,30): warning C4018: '<': signed/unsigned mismatch
+D:\Strukdat Pak Akok\Final Project Game\Game_Muhammad Ridho Mujahid\Game_Muhammad Ridho Mujahid\Game.cpp(291,23): warning C4018: '<': signed/unsigned mismatch
+  Game_Muhammad Ridho Mujahid.vcxproj -> D:\Strukdat Pak Akok\Final Project Game\Game_Muhammad Ridho Mujahid\Debug\Game_Muhammad Ridho Mujahid.exe
